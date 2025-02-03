@@ -1,0 +1,127 @@
+LeRobert:
+  type: Book
+  title: Dictionnaire Le Robert
+  date: 2010
+  language: French
+
+kubernetes:
+  type: Web
+  title: Kubernetes
+  url: https://kubernetes.io/
+  language: English
+
+ray:
+  type: Web
+  title: Ray
+  url: https://www.ray.io/
+  language: English
+
+MLflow:
+  type: Web
+  title: MLflow
+  url: https://mlflow.org/
+  language: English
+  
+LYSR:
+  type: Web
+  title: LYSR
+  url: https://lysr.ch/
+  language: English
+
+iCoSys:
+  type: Web
+  title: iCoSys
+  url: https://icosys.ch/
+  language: English
+  
+ray-doc:
+  type: Web
+  title: Documentation Ray
+  url: https://docs.ray.io/
+  date: 2024
+  language: English
+
+
+MinIO-ref1:
+  type: Web
+  title: Documentation MinIO 
+  url: https://min.io/docs
+  date: 2024
+  language: English
+
+ODD:
+  type: Web
+  title: Dix-sept objectifs de développement durable
+  url: https://www.eda.admin.ch/agenda2030/fr/home/agenda-2030/die-17-ziele-fuer-eine-nachhaltige-entwicklung.html
+  date: 2024
+  language: French
+
+HydrauSuisse:
+  type: Web
+  title: Force hydraulique en Suisse
+  url: https://www.admin.ch/gov/fr/accueil/documentation/communiques.msg-id-94702.html
+  date: 2022
+  language: French
+
+ibmAnomalies:
+  type: Web
+  title: Détection des anomalies
+  url: https://www.ibm.com/fr-fr/topics/anomaly-detection
+  date: 2023
+  language: English
+
+ibmAnomaliesPrediction:
+  type: Web
+  title: Prédiction des anomalies de séries chronologiques
+  url: https://www.ibm.com/fr-fr/topics/anomaly-detection
+  date: 2024
+  language: English
+
+servicenow:
+  type: Web
+  title: Détection des anomalies
+  url: https://www.servicenow.com/products/it-operations-management/what-is-anomaly-detection.html
+  date: 2024
+  language: English
+
+rapport:
+  type: Web
+  title: Comment rendre compte efficacement des résultats des backtests ?
+  url: https://www.linkedin.com/advice/1/how-can-you-report-backtesting-results-effectively
+  date: 2024
+  language: English
+
+durabilite:
+  type: Web
+  title:  Équipements TIC et durabilité 
+  url: https://www.bfs.admin.ch/bfs/fr/home/statistiques/culture-medias-societe-information-sport/societe-information/indicateurs-generaux/ressources-environnement/equipements-tic-durabilite.html
+  Date: 2024
+  language: French
+
+durabilite2:
+  type: Web
+  title:  Équipements TIC et durabilité
+  url: https://www.swissstats.bfs.admin.ch/collection/ch.admin.bfs.swissstat.fr.issue24168242300/article/issue24168242300-01
+  Date: 2023
+  language: French
+
+durabilite3:
+  type: Web
+  title: Or Le revers de la médaille
+  url: https://www.wwf.ch/fr/nos-objectifs/or-le-revers-de-la-medaille
+  Date: 2021
+  language: French
+
+apple:
+  type: Web
+  title: Apple puces M3
+  url: https://www.apple.com/chfr/newsroom/2023/10/apple-unveils-m3-m3-pro-and-m3-max-the-most-advanced-chips-for-a-personal-computer/
+  Date: 2034
+  language: French
+
+kube-eco:
+  type: Web
+  title: Reducing the Carbon Impact of Kubernetes with Optimization
+  url: https://granulate.io/blog/carbon-impact-kubernetes-optimization/
+  Date: 2034
+  language: English
